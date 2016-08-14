@@ -15,7 +15,7 @@ Please note that you need administrator privileges to run this script
 3. Double click on Install.bat. This will run the needed registry changes
 
 ## Screenshot
-![Screenshot](https://github.com/mariusmu/ConEmuWindowsExplorer/ConEmuExplorer.png
+![Screenshot](https://github.com/mariusmu/ConEmuWindowsExplorer/blob/master/ConEmuExplorer.png?raw=true)
 
 ## Note
 Please note that I don't take any resposibility for damages this program could cause on your system.
