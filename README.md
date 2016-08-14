@@ -18,4 +18,4 @@ Please note that you need administrator privileges to run this script
 ![Screenshot](https://github.com/mariusmu/ConEmuWindowsExplorer/blob/master/ConEmuExplorer.png?raw=true)
 
 ## Note
-Please note that I don't take any resposibility for damages this program could cause on your system.
+Even though this script should work smoothly,  I won't take any resposibility for damages it may cause to your system.
